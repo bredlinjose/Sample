@@ -6,6 +6,7 @@ public class GitHubPra {
 		
 		
 		System.out.println("GitHub Practice");
+		System.out.println();
 		
 		
 	}
