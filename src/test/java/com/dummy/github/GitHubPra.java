@@ -9,6 +9,7 @@ public class GitHubPra {
 		System.out.println("changes made");
 		System.out.println("Sample");
 		
+		System.out.println("Sample12");
 		
 	}
 
